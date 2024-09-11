@@ -11,12 +11,12 @@
 </p>
 
 <!--Displaying GitHub Profile View Counter -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=add_your_gitusername&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sagarr4&style=flat-square&color=blue" alt=""></p>
 
 <!--Introduce yourself !!-->
-<h1 align="center">Hi 👋, I'm Shivani Tyagi</h1>
-<h3 align="center">Machine Learning Engineer | NLP Explorer | Data Science Enthusiast | Author</h3>
-### :woman_technologist: &nbsp;About Me :
+<h1 align="center">Hi 👋, I'm Sagar Mahendra Prajapati</h1>
+<h3 align="center">Machine Learning Engineer | Computer Vision Explorer | Data Science Enthusiast | Author</h3>
+### :man_technologist: &nbsp;About Me :
 I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=add_your_gitusername&label=Profile%20views&color=0e75b6&style=flat" alt="shivitg" /> </p>
@@ -24,15 +24,15 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=add_your_gitusername" alt="shivitg" /></a> </p>
 <!-- Subheading that Describes Roles and Interests -->
 
-- 🤝 I’m happy to help with *Collaborations* on *NLP projects*
+- 🤝 I’m happy to help with *Collaborations* on *Computer Vision projects*
 
-- 👨‍💻 All of my projects are available at [https://shivitg.github.io](https://shivitg.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://sagar.github.io](https://shivitg.github.io)-->
 
 - 📝 I regularly publish papers in science related *research publications*
 
-- 📫 How to reach me *shivanitg09@gmail.com* 
+- 📫 How to reach me *sagarbmw1@gmail.com* 
 
-- 📄 Know about my experiences [https://shivitg.github.io](https://shivitg.github.io)
+<!-- - 📄 Know about my experiences [https://shivitg.github.io](https://shivitg.github.io) -->
 
 ---
 
@@ -45,18 +45,18 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
     <!-- GitHub Streak Stats Column -->
     <td style="border: none;">
       <!-- GitHub Streak Stats: Links to streak stats for the user -->
-      <a href="https://github-readme-stats.vercel.app/api/top-langs?username=add_your_gitusername">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sagarr4">
         <!-- Image for GitHub Streak Stats, with dark theme and black background -->
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=add_your_gitusername&theme=dark&background=000000" alt="GitHub Streak" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=sagarr4&theme=dark&background=000000" alt="GitHub Streak" />
       </a>
     </td>
 
   <!-- GitHub Stats Column -->
   <td style="border: none;">
       <!-- Link to GitHub streak stats -->
-      <a href="https://github-readme-streak-stats.herokuapp.com/?user=add_your_gitusername">
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=sagarr4">
         <!-- GitHub Profile Stats: Shows icons with a compact layout and a dark theme -->
-        <img src="https://github-readme-stats.vercel.app/api?username=add_your_gitusername&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Shivani's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sagarr4&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Sagar's GitHub stats" />
       </a>
     </td>
   </tr>
@@ -65,9 +65,9 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 <!-- Displaying the most commonly used languages in a donut chart, centered on the page -->
 <p align="center">
   <!-- Link to the API that shows top languages used by the user -->
-  <a href="https://github-readme-stats.vercel.app/api?username=add_your_gitusername">
+  <a href="https://github-readme-stats.vercel.app/api?username=sagarr4">
     <!-- Donut chart of top languages with a vision-friendly dark theme -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=add_your_gitusername&layout=donut&theme=vision-friendly-dark" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarr4&layout=donut&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
 </p>
 
@@ -84,20 +84,20 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 <!-- LinkedIn profile link -->
 <!-- The anchor tag opens User's LinkedIn profile in a new tab -->
  
-<a href="https://linkedin.com/in/add_your_linkedInProfileUrl" target="blank">
+<a href="https://linkedin.com/in/sagarrprajapati" target="blank">
 <!-- LinkedIn icon with custom size for the link -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="add_your_linkedInProfileUrl" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sagarrprajapati" height="30" width="40" /></a>
 
 <!-- Facebook profile link -->
-<a href="add_your_FBProfileUrl" target="blank">
+<!--<a href="add_your_FBProfileUrl" target="blank">
 <!-- Facebook icon with custom size for the link -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100091482730433" height="30" width="40" /></a>
+<!--<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100091482730433" height="30" width="40" /></a>
 
 <!-- YouTube channel link -->
-<a href="https://www.youtube.com/c/http://www.youtube.com/@shivanicanada" target="blank">
+<!--<a href="https://www.youtube.com/c/http://www.youtube.com/@shivanicanada" target="blank">
     <!-- YouTube icon with custom size for the link -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@shivanicanada" height="30" width="40" /></a>
-</p>
+<!--<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@shivanicanada" height="30" width="40" /></a>
+</p> -->
 
 <!-- End of social media links section -->
 ---
