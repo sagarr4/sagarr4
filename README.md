@@ -19,9 +19,9 @@
 ### :man_technologist: &nbsp;About Me :
 I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=add_your_gitusername&label=Profile%20views&color=0e75b6&style=flat" alt="shivitg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarr4&label=Profile%20views&color=0e75b6&style=flat" alt="sagarr4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=add_your_gitusername" alt="shivitg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarr4" alt="sagarr4" /></a> </p>
 <!-- Subheading that Describes Roles and Interests -->
 
 - 🤝 I’m happy to help with *Collaborations* on *Computer Vision projects*
