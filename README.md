@@ -2,7 +2,7 @@
 <!-- Centering an Image and Enlarging it-->
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlzOGE0NGZncjF3dXMzOG02bnNrMDY2eTE5cGlobGtxZGdicmFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Centered and Enlarged Image">
+  <img src="https://1.bp.blogspot.com/-xnPYh9MVN2M/XhFRUp52OmI/AAAAAAAAUiA/r7OXwRpMe6QVP98tg1B5lJloCWxYlXJnwCLcBGAsYHQ/w1200-h630-p-k-no-nu/what-is-data-science.jpg" width="600" alt="Centered and Enlarged Image">
 </p>
 
 <!-- Adding a LinkedIn Badge -->
@@ -16,8 +16,10 @@
 <!--Introduce yourself !!-->
 <h1 align="center">Hi 👋, I'm Sagar Mahendra Prajapati</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision Explorer | Data Science Enthusiast | Author</h3>
-### :man_technologist: &nbsp;About Me :
-I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+<!-- About Me Section -->
+<h3>👨‍💻 About Me:</h3>
+<p>I am a Full-Stack Data Scientist!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarr4&label=Profile%20views&color=0e75b6&style=flat" alt="sagarr4" /> </p>
 
