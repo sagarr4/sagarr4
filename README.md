@@ -1,4 +1,4 @@
-<!-- Custom animated brand banner — commit header.svg to this repo first -->
+<!-- Animated brand banner — commit header.svg alongside this file -->
 <p align="center">
   <img src="header.svg" width="100%" alt="Sagar Prajapati — Full-Stack Developer, Founder of PortfolioAI"/>
 </p>
@@ -74,7 +74,7 @@
 
 <br/>
 
-<!--## 📊 Activity
+## 📊 Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarr4&show_icons=true&bg_color=080808&title_color=4F9EFF&text_color=8B8B94&icon_color=4F9EFF&hide_border=true" height="160" alt="GitHub stats"/>
@@ -85,4 +85,4 @@
 
 <p align="center">
   <sub>📍 Kamloops, BC · 📫 sagarbmw1@gmail.com · open to full-stack & data-driven SDE roles</sub>
-</p>//--!>
+</p>
