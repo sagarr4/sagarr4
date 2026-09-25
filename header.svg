@@ -1,66 +1,147 @@
-<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowODJjMzg5Zi05NjAxLTRjNGQtYWQ0OC1kMGQyNGZlOTBlM2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaP4UVhoGgpIScjrr6W1UUD0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplNGNlNzYxYS04NGZhLTRhYTgtODYwMC05ZWZjY2ZkOTk1NjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoD81JrH2BvNn4RVWf6lEdfAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggL55+48hojvEL3/V7bvwF61v24FeUZk7e669yXIcdCLukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPSL7VueWwEJVd2FhM6+sfIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCH3oG7uJ+GGsYRSlu6PYkw02MOheYHHr7PHyBLPjMzW2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA4MmMzODlmLTk2MDEtNGM0ZC1hZDQ4LWQwZDI0ZmU5MGUzZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU0MGQxZTgyLTAwNzktNDA1My1hNzMzLTViOGJmNzliZjA5OHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAvnn7jyGiO8Qvf9Xtu/AXrW/bgV5RmTt7rr3Jchx0Iu6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggZ6RyCV5ETJTKETSl+tzmr8IiX/vrrtWEQy5JrExn4x+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggI9zy3+OwE4crWeyaDb+jmDzoVbvxje6yHLCFZ+cOim50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCKPwueE2nFfu+5NwYguqVc/8oc5MI9Nj7Pj5n2iOaSa84oN6KOX+xi9Ecjm2eG/Byet9HoKokbTCpkC3F0t1sU=</c2pa:manifest></metadata>
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#080808"/>
-      <stop offset="1" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#4F9EFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#4F9EFF"/>
-      <stop offset="1" stop-color="#4F9EFF" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-900 0; 900 0; -900 0" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#4F9EFF" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#4F9EFF" stop-opacity="0"/>
+    <radialGradient id="bgGlow" cx="78%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#12213a"/>
+      <stop offset="45%" stop-color="#0a0f18"/>
+      <stop offset="100%" stop-color="#080808"/>
     </radialGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8ECF4"/>
+      <stop offset="45%" stop-color="#8FB9FF"/>
+      <stop offset="55%" stop-color="#4F9EFF"/>
+      <stop offset="100%" stop-color="#E8ECF4"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0; -1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="cardEdge" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5FB0FF"/>
+      <stop offset="100%" stop-color="#1c3f66"/>
+    </linearGradient>
+
+    <linearGradient id="browserGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#101826"/>
+      <stop offset="100%" stop-color="#0a0f18"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <!-- background -->
-  <rect width="900" height="220" rx="14" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" fill="url(#bgGlow)"/>
 
-  <!-- ambient glow drifting -->
-  <circle cx="720" cy="60" r="180" fill="url(#glow)">
-    <animate attributeName="cx" values="720;640;720" dur="9s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="60;120;60" dur="9s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- subtle grid dots -->
-  <g fill="#4F9EFF" opacity="0.10">
-    <circle cx="60" cy="40" r="1.5"/><circle cx="120" cy="40" r="1.5"/><circle cx="180" cy="40" r="1.5"/>
-    <circle cx="60" cy="80" r="1.5"/><circle cx="120" cy="80" r="1.5"/>
-    <circle cx="780" cy="170" r="1.5"/><circle cx="840" cy="170" r="1.5"/>
-    <circle cx="780" cy="130" r="1.5"/><circle cx="840" cy="130" r="1.5"/><circle cx="840" cy="90" r="1.5"/>
+  <!-- faint moving grid -->
+  <g stroke="#4F9EFF" stroke-opacity="0.06" stroke-width="1">
+    <g>
+      <line x1="0" y1="40" x2="1200" y2="40"/>
+      <line x1="0" y1="90" x2="1200" y2="90"/>
+      <line x1="0" y1="140" x2="1200" y2="140"/>
+      <line x1="0" y1="190" x2="1200" y2="190"/>
+      <line x1="0" y1="240" x2="1200" y2="240"/>
+      <line x1="0" y1="290" x2="1200" y2="290"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -50; 0 0" dur="10s" repeatCount="indefinite"/>
+    </g>
   </g>
 
-  <!-- name -->
-  <text x="60" y="105" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F2F2F4" letter-spacing="-1">
+  <!-- pulsing accent glow behind the card -->
+  <circle cx="860" cy="160" r="130" fill="#4F9EFF" opacity="0.10">
+    <animate attributeName="r" values="120;150;120" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.08;0.16;0.08" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- floating particles -->
+  <g fill="#4F9EFF">
+    <circle cx="620" cy="70" r="2.4" opacity="0.7">
+      <animate attributeName="cy" values="70;50;70" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="90" r="2" opacity="0.6">
+      <animate attributeName="cy" values="90;115;90" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="250" r="1.8" opacity="0.5">
+      <animate attributeName="cy" values="250;225;250" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="230" r="2.6" opacity="0.6">
+      <animate attributeName="cy" values="230;255;230" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="930" cy="55" r="2.2" opacity="0.5">
+      <animate attributeName="cy" values="55;35;55" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.65;0.1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name / role -->
+  <text x="70" y="140" font-family="Inter, 'Segoe UI', sans-serif" font-size="46" font-weight="600" fill="url(#textGrad)">
     Sagar Prajapati
-    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="72" y="178" font-family="Inter, 'Segoe UI', sans-serif" font-size="17" fill="#8B8B94" letter-spacing="0.3">
+    Full-stack developer — building PortfolioAI end-to-end
   </text>
 
-  <!-- role line -->
-  <text x="62" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#8B8B94" letter-spacing="0.3">
-    Full-Stack Developer&#160;&#160;·&#160;&#160;Founder @ PortfolioAI&#160;&#160;·&#160;&#160;Applied Data Science
-    <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
-  </text>
-
-  <!-- animated accent underline -->
-  <rect x="60" y="158" width="370" height="3" rx="1.5" fill="url(#accent)"/>
-
-  <!-- code-cursor blink -->
-  <rect x="412" y="72" width="3" height="38" fill="#4F9EFF">
-    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  <!-- accent underline that draws itself in -->
+  <rect x="72" y="196" width="0" height="3" rx="1.5" fill="#4F9EFF">
+    <animate attributeName="width" values="0;300;300" keyTimes="0;0.4;1" dur="2.4s" fill="freeze"/>
   </rect>
 
-  <!-- ship status pill -->
-  <g>
-    <rect x="60" y="178" width="252" height="26" rx="13" fill="#101013" stroke="#232329"/>
-    <circle cx="78" cy="191" r="4" fill="#3DDC84">
-      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text x="92" y="195" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B8B94">
-      shipping portfolioai.company in production
-    </text>
+  <!-- pseudo-3D flip card: resume PDF flips into a live website -->
+  <g transform="translate(860,160)" filter="url(#softGlow)">
+    <g id="flipGroup">
+      <animateTransform attributeName="transform" type="scale"
+        values="1 1; 0.04 1; 0.04 1; 1 1; 1 1" keyTimes="0;0.28;0.5;0.72;1"
+        dur="6s" repeatCount="indefinite"/>
+
+      <!-- face A: resume / PDF -->
+      <g id="faceDoc">
+        <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.27;0.3;0.98;1" dur="6s" repeatCount="indefinite"/>
+        <rect x="-95" y="-115" width="190" height="230" rx="10" fill="#101826" stroke="url(#cardEdge)" stroke-width="2"/>
+        <rect x="-65" y="-80" width="130" height="10" rx="3" fill="#4F9EFF" opacity="0.85"/>
+        <rect x="-65" y="-55" width="130" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="-38" width="95" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="-21" width="110" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="10" width="130" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="27" width="80" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="44" width="105" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="75" width="60" height="20" rx="5" fill="#4F9EFF" opacity="0.18" stroke="#4F9EFF" stroke-width="1"/>
+        <text x="-45" y="89" font-family="Inter, sans-serif" font-size="10" fill="#4F9EFF">PDF</text>
+      </g>
+
+      <!-- face B: live portfolio website -->
+      <g id="faceSite" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.27;0.3;0.98;1" dur="6s" repeatCount="indefinite"/>
+        <rect x="-95" y="-115" width="190" height="230" rx="10" fill="url(#browserGrad)" stroke="url(#cardEdge)" stroke-width="2"/>
+        <rect x="-95" y="-115" width="190" height="26" rx="10" fill="#161f30"/>
+        <circle cx="-79" cy="-102" r="3.5" fill="#ff5f57"/>
+        <circle cx="-67" cy="-102" r="3.5" fill="#febc2e"/>
+        <circle cx="-55" cy="-102" r="3.5" fill="#28c840"/>
+        <rect x="-65" y="-72" width="130" height="34" rx="6" fill="#4F9EFF" opacity="0.22"/>
+        <rect x="-55" y="-62" width="70" height="7" rx="3" fill="#4F9EFF"/>
+        <rect x="-55" y="-48" width="45" height="5" rx="2.5" fill="#5a6479"/>
+        <rect x="-65" y="-28" width="55" height="45" rx="6" fill="#1c2740"/>
+        <rect x="-2" y="-28" width="55" height="45" rx="6" fill="#1c2740"/>
+        <rect x="-65" y="27" width="130" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="44" width="90" height="6" rx="3" fill="#3a4658"/>
+        <rect x="-65" y="75" width="60" height="20" rx="5" fill="#4F9EFF" opacity="0.9"/>
+        <text x="-50" y="89" font-family="Inter, sans-serif" font-size="10" fill="#080808" font-weight="600">LIVE</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- arrow motif between name block and card, subtly pulsing -->
+  <g stroke="#4F9EFF" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M 460 160 L 700 160">
+      <animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 690 152 L 700 160 L 690 168"/>
   </g>
 </svg>
